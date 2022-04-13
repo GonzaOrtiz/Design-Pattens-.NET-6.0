@@ -1,0 +1,15 @@
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.exe
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.deps.json
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.runtimeconfig.json
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\ref\Patrones de diseño.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.pdb
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.csproj.AssemblyReference.cache
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\ref\Patrones de diseño.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.pdb
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.genruntimeconfig.cache

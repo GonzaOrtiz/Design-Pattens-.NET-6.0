@@ -1,0 +1,14 @@
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Factory Method.exe
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Factory Method.deps.json
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Factory Method.runtimeconfig.json
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Factory Method.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\ref\Factory Method.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Factory Method.pdb
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\ref\Factory Method.dll
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.pdb
+C:\Users\GONZALO\source\repos\Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Factory Method.genruntimeconfig.cache
